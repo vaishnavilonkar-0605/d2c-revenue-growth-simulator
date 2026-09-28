@@ -165,7 +165,7 @@ Each lever was increased by 10% one at a time, with everything else unchanged, a
 
 The growth model is available as a Streamlit web app (`src/app.py`).
 
-**Live demo:** _add your Streamlit link here after deployment_
+**Live demo:** https://d2c-revenue-growth-simulator.streamlit.app/
 
 - Five sliders, one per lever: order value (AOV), order frequency, retention, new customers, returning customers
 - Each slider changes that lever by a percentage from the real baseline (0% means no change)
